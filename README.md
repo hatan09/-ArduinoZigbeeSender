@@ -1,0 +1,2 @@
+# Zigbee-Arduino sender
+This is a small demo to guide you how to handle the code of sender side of Zigbee-system role. The sender will hold passwords of all the receiving Zigbee arduino client to control them and also be able to receive status data from all the clients as well.
